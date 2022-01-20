@@ -25,7 +25,7 @@ SECRET_KEY = '7-1h5(&*_fq^ozptula(64pnx_eqr2hp=2s&y-m-1bxc08fg7+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', codemessenger.herokuapp.com]
+ALLOWED_HOSTS = ['127.0.0.1', 'codemessenger.herokuapp.com']
 
 
 # Application definition
